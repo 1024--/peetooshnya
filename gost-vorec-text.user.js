@@ -11,6 +11,8 @@
 var voretionize = (function gost_code() {
 'use strict';
 
+// http://gvforum.ru/viewtopic.php?pid=2376#p2376
+
 // Для портирования с питона
 
 function Set(arr) {
